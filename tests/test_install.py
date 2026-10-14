@@ -20,7 +20,8 @@ class InstallationTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory(prefix="thesis skills test ")
         self.addCleanup(self.temp.cleanup)
-        self.project = Path(self.temp.name) / "Research project with spaces"
+        # Normalize OS-provided temporary-directory aliases before comparisons.
+        self.project = Path(self.temp.name).resolve() / "Research project with spaces"
         self.project.mkdir()
 
     def run_cli(self, *args, expected=0, installer=None):

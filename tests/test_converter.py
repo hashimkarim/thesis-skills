@@ -18,7 +18,8 @@ class ConverterTests(unittest.TestCase):
     def setUp(self):
         self.temp = tempfile.TemporaryDirectory(prefix="paper conversion ")
         self.addCleanup(self.temp.cleanup)
-        self.root = Path(self.temp.name)
+        # macOS /var aliases and Windows short names refer to the same directory.
+        self.root = Path(self.temp.name).resolve()
         self.pdf = self.root / "Example paper.pdf"
         self.pdf.write_bytes(b"%PDF-test fixture")
         self.source = self.root / "extracted"
