@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis LaTeX"
+  short_description: "Edit and validate an existing LaTeX thesis"
+  default_prompt: "Use $thesis-latex to update my manuscript with its existing template and build workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Literature Review"
+  short_description: "Compare sources and synthesize related work"
+  default_prompt: "Use $thesis-literature-review to compare these papers against my research question."

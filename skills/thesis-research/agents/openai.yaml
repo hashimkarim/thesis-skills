@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Research"
+  short_description: "Connect research questions to defensible evidence"
+  default_prompt: "Use $thesis-research to review my study design and the claims it can support."

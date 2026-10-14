@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Citations"
+  short_description: "Verify claims, passages, and bibliography metadata"
+  default_prompt: "Use $thesis-citations to audit the claims and source support in this section."

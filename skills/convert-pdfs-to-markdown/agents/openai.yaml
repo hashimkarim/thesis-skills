@@ -1,0 +1,4 @@
+interface:
+  display_name: "Convert PDFs to Markdown"
+  short_description: "Create faithful local Markdown reading copies"
+  default_prompt: "Use $convert-pdfs-to-markdown to convert these PDFs and check representative source pages."

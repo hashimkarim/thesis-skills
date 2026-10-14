@@ -1,0 +1,13 @@
+{
+  "name": "thesis-skills",
+  "description": "Portable thesis workflows for writing, research, and source conversion.",
+  "owner": {"name": "Hashim Karim"},
+  "plugins": [
+    {
+      "name": "thesis-skills",
+      "source": "./",
+      "description": "Seven portable skills for the thesis workflow.",
+      "version": "1.0.0"
+    }
+  ]
+}

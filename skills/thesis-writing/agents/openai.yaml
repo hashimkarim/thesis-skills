@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Writing"
+  short_description: "Plan clear thesis stories and accessible explanations"
+  default_prompt: "Use $thesis-writing to improve this section for the audience and evidence requirements in my project brief."

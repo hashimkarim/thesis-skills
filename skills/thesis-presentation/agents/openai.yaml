@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thesis Presentation"
+  short_description: "Plan a clear research talk and thesis defense"
+  default_prompt: "Use $thesis-presentation to plan a defense using my project audience and verified findings."

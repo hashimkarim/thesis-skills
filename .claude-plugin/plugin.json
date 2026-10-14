@@ -1,0 +1,10 @@
+{
+  "name": "thesis-skills",
+  "version": "1.0.0",
+  "description": "Portable thesis writing, literature, research, citations, LaTeX, presentations, and PDF conversion skills.",
+  "author": {"name": "Hashim Karim"},
+  "homepage": "https://github.com/hashimkarim/thesis-skills",
+  "repository": "https://github.com/hashimkarim/thesis-skills",
+  "license": "MIT",
+  "keywords": ["thesis", "academic-writing", "research", "latex", "pdf", "markdown"]
+}
