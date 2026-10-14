@@ -6,7 +6,7 @@
   <a href="docs/installation.md"><img src="https://shieldcn.dev/badge/Codex-ready-7289da.svg?variant=secondary&amp;mode=dark" alt="Codex ready"></a>
   <a href="docs/installation.md#claude-code-plugin"><img src="https://shieldcn.dev/badge/Claude_Code-ready-ce8670.svg?variant=secondary&amp;mode=dark" alt="Claude Code ready"></a>
   <a href="docs/skills.md"><img src="https://shieldcn.dev/badge/skills-7-43b581.svg?variant=secondary&amp;mode=dark" alt="7 thesis skills"></a>
-  <a href="https://github.com/hashimkarim/thesis-skills/actions/workflows/validate.yml"><img src="https://shieldcn.dev/github/ci/hashimkarim/thesis-skills.svg?workflow=validate.yml&amp;variant=secondary&amp;mode=dark" alt="Validation status"></a>
+  <a href="https://github.com/hashimkarim/thesis-skills/actions/workflows/validate.yml"><img src="https://shieldcn.dev/github/ci/hashimkarim/thesis-skills.svg?workflow=validate.yml&amp;branch=main&amp;variant=secondary&amp;mode=dark" alt="Validation status on main"></a>
   <a href="LICENSE"><img src="https://shieldcn.dev/badge/license-MIT-859bee.svg?variant=secondary&amp;mode=dark" alt="MIT license"></a>
 </p>
 
